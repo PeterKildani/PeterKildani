@@ -1,4 +1,11 @@
-### Hi there 👋
+# Peter Kildani
+### I am a student in ACS
+
+
+I am **Jordanian** I am 14 years old and have two siblings.
+
+
+
 
 <!--
 **PeterKildani/PeterKildani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
